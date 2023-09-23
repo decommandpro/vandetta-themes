@@ -1,0 +1,105 @@
+{
+    "name": "CustomDark",
+    "description": "Custom Dark Theme",
+    "authors": [
+        {
+            "name": "@chrius.",
+            "id": "424629629060382731"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#f0f6fc"
+        ],
+        "HEADER_SECONDARY": [
+            "#8b949e"
+        ],
+        "TEXT_NORMAL": [
+            "#b1bae6"
+        ],
+        "TEXT_MUTED": [
+            "#565f89"
+        ],
+        "TEXT_LINK": [
+            "#7f8cc9"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#8b949e"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#dcddde"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#fff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#4c5258" 
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#090c10"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#0d1117"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#161b22"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#070a10"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#111d2e"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#161b22"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#171722"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#171722"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#171722"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#1a1b26"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#1a1b26"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#171722"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#242631"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#171722"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#070a10"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#8b949e"
+        ],
+        "TEXT_DANGER": [
+            "#565f89"
+        ],
+        "KEYBOARD": [
+            "#1a1b26"
+        ],
+        "CHANNEL_ICON": [
+            "#5f647e"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1a1b26"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#16161e"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "#171722"
+        ]
+    }
+}
