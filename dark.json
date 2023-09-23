@@ -15,13 +15,13 @@
             "#8b949e"
         ],
         "TEXT_NORMAL": [
-            "#b1bae6"
+            "#c9d1d9"
         ],
         "TEXT_MUTED": [
-            "#565f89"
+            "#8b949e"
         ],
         "TEXT_LINK": [
-            "#7f8cc9"
+            "#58a6ff"
         ],
         "INTERACTIVE_NORMAL": [
             "#8b949e"
@@ -66,16 +66,16 @@
             "#1a1b26"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#1a1b26"
+            "#21262d42"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#171722"
+            "#21262d70"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#242631"
+            "#21262d86"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#171722"
+            "#21262d"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#070a10"
